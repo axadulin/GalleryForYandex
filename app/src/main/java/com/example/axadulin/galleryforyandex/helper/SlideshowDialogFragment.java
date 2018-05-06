@@ -12,7 +12,6 @@ import android.widget.TextView;
 import com.bm.library.PhotoView;
 import java.util.ArrayList;
 import com.example.axadulin.galleryforyandex.R;
-
 import com.example.axadulin.galleryforyandex.model.FlickrPicture;
 import com.squareup.picasso.Picasso;
 
